@@ -38,4 +38,7 @@ The logistic regression classifier achieved an accuracy of approximately 95%. Th
 - Class imbalance affects recall for spam messages.
 - More advanced NLP models could further improve performance.
 
-## Repository Structure
+
+## Author
+**Maureen Chepkirui**
+
